@@ -6,3 +6,4 @@ const asyncHandler = (requestHandler) => {
 }
 
 export default asyncHandler
+
